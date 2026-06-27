@@ -98,7 +98,8 @@ Next: broaden each category (more scenarios, harder distractors), add **temporal
 and publish a contribution guide so external memory systems can submit to the board.
 
 Contributions of new scenarios — especially adversarial ones that break the
-`typed-constraint` baseline — are the most valuable thing you can add.
+`typed-constraint` baseline — are the most valuable thing you can add. See
+[CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 
