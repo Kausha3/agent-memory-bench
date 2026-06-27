@@ -1,5 +1,7 @@
 # agent-memory-bench
 
+[![CI](https://github.com/Kausha3/agent-memory-bench/actions/workflows/ci.yml/badge.svg)](https://github.com/Kausha3/agent-memory-bench/actions/workflows/ci.yml)
+
 **An open benchmark for the failure modes of agent memory systems.**
 
 Everyone shipping an AI agent bolts on a "memory," and everyone evaluates it the same
